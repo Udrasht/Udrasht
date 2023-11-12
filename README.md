@@ -4,13 +4,13 @@
 <h1 align="center">Hi 👋, I'm udrasht</h1>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🔭 I’m currently working on [SimpleRA](https://github.com/Udrasht/SimpleRA)
+- 🔭 I’m currently working on [!SimpleRA](https://github.com/Udrasht/SimpleRA)
 
-- 👨‍💻 All of my projects are available at [https://github.com/udrasht](https://github.com/udrasht)
+- 👨‍💻 All of my projects are available at [click](https://github.com/Udrasht)
 
 - 📫 How to reach me **udrashtpal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aINBUuPzRHdZFOq9J5t1fW8Y1ZQdfevh/view](https://drive.google.com/file/d/1aINBUuPzRHdZFOq9J5t1fW8Y1ZQdfevh/view)
+- 📄 Know about my experiences [Click](https://drive.google.com/file/d/1aINBUuPzRHdZFOq9J5t1fW8Y1ZQdfevh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
