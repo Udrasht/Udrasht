@@ -16,6 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/udrasht-pal-751008167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udrasht-pal-751008167" height="30" width="40" /></a>
+</p>
+<h3 align="left"> Coding Platform:</h3>
+<p align="left">
 <a href="https://www.leetcode.com/udrashtpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udrashtpal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/udrasht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="udrasht" height="30" width="40" /></a>
 </p>
